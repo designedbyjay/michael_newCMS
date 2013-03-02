@@ -1,0 +1,32 @@
+title: Photos
+-
+content:
+
+<div id="photosContainer">
+
+
+
+
+
+<a class="fancybox" rel="group" href="public/images/portraits/01.png">
+<img src="public/images/thumbnails/01.png" alt="" /></a>
+
+<a class="fancybox" rel="group" href="public/images/portraits/02.png">
+<img src="public/images/thumbnails/02.png" alt="" /></a>
+
+<a class="fancybox" rel="group" href="public/images/portraits/04.png">
+<img src="public/images/thumbnails/04.png" alt="" /></a>
+
+<a class="fancybox" rel="group" href="public/images/portraits/06.png">
+<img src="public/images/thumbnails/06.png" alt="" /></a>
+
+<a class="fancybox" rel="group" href="public/images/portraits/05.png">
+<img src="public/images/thumbnails/05.png" alt="" /></a>
+
+<a class="fancybox" rel="group" href="public/images/portraits/07.png">
+<img src="public/images/thumbnails/07.png" alt="" /></a>
+
+<a class="fancybox" rel="group" href="public/images/portraits/03.png">
+<img src="public/images/thumbnails/03.png" alt="" /></a>
+</div>
+

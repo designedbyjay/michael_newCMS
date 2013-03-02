@@ -1,0 +1,16 @@
+title: Audio
+-
+content: 
+
+<div class="tracks">
+<p class="trackTitles">Animation Reel</p>
+<audio src="@root_path/public/mp3s/MLC_Animation Reel.mp3" preload="none"></audio>
+<p class="trackTitles">Commercial Reel</p>
+<audio src="@root_path/public/mp3s/MLC_Commercial Reel.mp3" preload="none"></audio>
+<p class="trackTitles">Highlight Reel 2012</p>
+<audio src="@root_path/public/mp3s/MLC_Highlight Reel 2012.mp3" preload="none"></audio>
+<p class="trackTitles">Promo Reel: Music Choice</p>
+<audio src="@root_path/public/mp3s/MLC_PromoII.mp3" preload="none"></audio>
+<p class="trackTitles">Theme Park: RWS & Associates</p>
+<audio src="@root_path/public/mp3s/MLC_RWS Halloween Reel.mp3" preload="none"></audio>
+</div>
