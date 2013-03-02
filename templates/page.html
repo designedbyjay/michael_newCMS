@@ -29,6 +29,8 @@
   $(document).ready(function() {
     $(".fancybox").fancybox();
   });
+  var stripped_url = document.location.href.match(/([^\/]+)\/(#.+)?$/)[1];
+  $('#navigation li[rel="'+stripped_url+'"]').addClass('active');
 </script>
 
   
@@ -69,9 +71,6 @@
   audiojs.events.ready(function() {
     var as = audiojs.createAll();
   });
-  $('li').click(function(){
-  $(this).addClass('active');
-});
 </script>
 
  
