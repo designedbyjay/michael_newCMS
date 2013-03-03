@@ -74,7 +74,7 @@ cursor: default;}
 
 body { 
 	/*background: url('photo.png') no-repeat center center fixed;*/
-	background: url('http://25.media.tumblr.com/f9b7614586f1df0a8cb89083968fc686/tumblr_mifhmeAr0t1qj0100o7_1280.jpg') no-repeat center center fixed;
+	background: url('http://24.media.tumblr.com/8e5fdc3046b92125fe4b6325089f5185/tumblr_mj2542uVMO1rrfowao1_500.jpg') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -84,7 +84,7 @@ body {
 }
 
 #navigation li a:active{
-	background-color: #ff0000;
+	background-color: #ff0000;	
 }
 .tracks{
 		margin-top: 53px;
