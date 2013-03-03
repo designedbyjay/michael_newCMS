@@ -24,15 +24,14 @@
 
 
 
-
 <script type="text/javascript">
-  $(document).ready(function() {
-    $(".fancybox").fancybox();
-  });
-  var stripped_url = document.location.href.match(/([^\/]+)\/(#.+)?$/)[1];
-  $('#navigation li[rel="'+stripped_url+'"]').addClass('active');
+  $(document).ready(function() {
+      $(".fancybox").fancybox();
+      var stripped_url = document.location.href.match(/([^\/]+)\/(#.+)?$/)[1];
+      var img_url = './public/docs/navButtons/'+stripped_url+'_button_active.png';
+      $('#navigation li[rel="pagez/'+stripped_url+'"] a img').attr('src', img_url);
+  });
 </script>
-
   
 
   </head>
