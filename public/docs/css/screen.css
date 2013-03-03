@@ -63,16 +63,9 @@ margin-top: 20px;
 	text-indent: -9999px; 
 }*/
 
-/*
-a#audioBtn:hover {
-	background: url('button.png') no-repeat bottom; 
-}*/
 
-/*a#audioBtn:active{ 
-		background: url(button.png) no-repeat bottom; 
 
-}
-*/
+
 #navigation li.selected a{
 	border: 0px;
 color: #464646;
@@ -90,11 +83,13 @@ body {
 
 }
 
-
+#navigation li a:active{
+	background-color: #ff0000;
+}
 .tracks{
 		margin-top: 53px;
 		margin-left: 0px;
-		padding: 4px;
+		padding: 10px;	
 		width: 464px;
 		height: 371px;
 		background-color: rgba(0,0,0,0.5);
@@ -108,9 +103,9 @@ body {
 			margin-bottom: 2px;
 			padding-top: 11px; 
 			padding-bottom: 10px; 
-			padding-left: 14px;
+			padding-left: 16px;
 			background-color: #C66853;
-			max-width: 442px;
+			max-width: 446px;
 			font-size: 16px; 
 			color: #fff;
 			letter-spacing: 1px;
